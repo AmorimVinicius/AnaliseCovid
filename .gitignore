@@ -130,3 +130,6 @@ dmypy.json
 
 #  vscode
 .vscode/
+
+# ambiente de dev (venv)
+venv_streamilit/
