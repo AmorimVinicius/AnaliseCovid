@@ -40,7 +40,7 @@ def main():
                                  obitos_2020, 
                                  "SRAG")
     
-    # st.dataframe(obitos_2019)
+    # st.dataframe(obitos_2019) 
 
     st.title("Análise de óbitos 2019-2020")
     st.markdown("Este trabalho analisa os dados dos **óbitos 2019-2020**")
